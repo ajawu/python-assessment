@@ -148,5 +148,6 @@ REST_FRAMEWORK = {
     ],
     'DEFAULT_THROTTLE_RATES': {
         'howold': '1/second',
-    }
+    },
+    "EXCEPTION_HANDLER": "python_assessment.exceptions.api_exception_handler",
 }
