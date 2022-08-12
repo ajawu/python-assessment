@@ -147,6 +147,6 @@ REST_FRAMEWORK = {
         'rest_framework.throttling.ScopedRateThrottle',
     ],
     'DEFAULT_THROTTLE_RATES': {
-        'howold': '3/second',
+        'howold': '1/second',
     }
 }
