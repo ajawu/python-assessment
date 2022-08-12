@@ -1,8 +1,8 @@
 {
-    "name": "",
+    "name": "David Ajawu",
     "track": "backend",
-    "email": "",
-    "githubUsername": "",
-    "deployedAppURL": "",
+    "email": "ajawudavid@gmail.com",
+    "githubUsername": "ajawu",
+    "deployedAppURL": "https://python-assessment.herokuapp.com/v1/api/asssessment",
     "explainer": ""
 }

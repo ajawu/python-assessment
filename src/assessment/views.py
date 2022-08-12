@@ -1,8 +1,8 @@
 from rest_framework.views import APIView, Response, status
 from rest_framework.permissions import AllowAny
 
-from src.assessment.serializers import DateOfBirthSerializer
-from src.assessment.helpers import calculate_dob
+from .serializers import DateOfBirthSerializer
+from .helpers import calculate_dob
 
 
 class AgeView(APIView):
