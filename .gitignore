@@ -1,0 +1,5 @@
+.venv/
+src/.env
+*.sqlite3
+.idea/*
+*.pyc
